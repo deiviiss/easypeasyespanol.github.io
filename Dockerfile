@@ -34,4 +34,4 @@ RUN \
 RUN \
   cd /opt/easypeasyespanol.github.io \
     && \
-  mkdir _book
+  mkdir /opt/easypeasyespanol.github.io/_book
