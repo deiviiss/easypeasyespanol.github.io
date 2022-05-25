@@ -1,0 +1,27 @@
+bookdown::gitbook:
+  config:
+    toc:
+      before: |
+        <li><a href ="./">EasyPeasy</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/easypeasyespanol/easypeasyespanol.github.io/blob/main/%s
+    download:
+      - ["easypeasyespanol.pdf", "PDF"]
+      - ["easypeasyespanol.epub", "EPUB"]
+    fontsettings:
+      theme: night
+pdf_document:
+  includes:
+    in_header: preamble.tex
+    toc: true
+    number_sections: true
+    fig_caption: false
+    latex_engine: xelatex
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
