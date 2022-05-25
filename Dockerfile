@@ -30,8 +30,6 @@ RUN \
     
 RUN \
   fc-cache -fv \
-    && \
-  fc-list
 
 RUN \
   cd /opt/easypeasyespanol.github.io \
