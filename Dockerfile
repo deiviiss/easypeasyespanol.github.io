@@ -25,7 +25,8 @@ RUN \
   apt-get update \
     && \
   apt-get install -y -qq --no-install-recommends \
-    ttf-mscorefonts-installer
+    ttf-mscorefonts-installer \
+    fontconfig \
     
 RUN \
   fc-cache -fv \
