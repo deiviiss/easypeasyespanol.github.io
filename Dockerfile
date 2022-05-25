@@ -33,6 +33,6 @@ RUN \
   fc-list
 
 RUN \
-  cd /opt/easypeasyespanol.github.io
+  cd /opt/easypeasyespanol.github.io \
     && \
   mkdir _book
