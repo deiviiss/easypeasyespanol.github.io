@@ -29,7 +29,7 @@ RUN \
     && \
   cabextract *.exe \
     && \
-  cp *.ttf *.TTF ~/.local/share/fonts/ \
+  cp *.ttf *.TTF ~/local/share/fonts/ \
     && \
   fc-cache -fv \
     && \
