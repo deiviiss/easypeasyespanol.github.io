@@ -31,7 +31,7 @@ RUN \
     && \
   fc-cache -fv \
     && \
-  cp *.ttf *.TTF ~/local/share/fonts/ \
+  cp *.ttf *.TTF /usr/local/share/fonts/ \
     && \
   fc-cache -fv \
     && \
