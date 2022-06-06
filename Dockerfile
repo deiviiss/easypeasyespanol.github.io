@@ -53,7 +53,9 @@ RUN \
 RUN \
   fc-cache -fv \
     && \
-  echo "installed fonts"
+  echo "installed fonts" \
+    && \
+  fc-list
 
 ########################################################
 # install r with whatever r packages we need/want
