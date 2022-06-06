@@ -29,6 +29,8 @@ RUN \
     && \
   cabextract *.exe \
     && \
+  cp *.ttf *.TTF ~/.local/share/fonts/ \
+    && \
   fc-cache -fv \
     && \
   echo "installed fonts" \
