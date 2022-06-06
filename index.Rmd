@@ -10,15 +10,15 @@ lang: es
 url: "https://easypeasyespanol.github.io/"
 cover-image: "img-cover.png"
 pdf-cover-image: "img-cover.png"
-mainfont: Arial
+mainfont: DejaVuSans
 header-includes:
   - \usepackage{setspace}
   - \onehalfspacing
   - \usepackage{titling}
   - \pretitle{\begin{center}
-    \includegraphics[width=6.5in,height=6.5in]{img-cover.png}\LARGE\\}
+    \includegraphics[width=7in,height=7in]{img-cover.png}\LARGE\\}
   - \posttitle{\end{center}}
-  - \usepackage[fontsize=17pt]{scrextend}
+  - \usepackage[fontsize=16pt]{scrextend}
   - \usepackage{fancyhdr}
   - \pagestyle{plain}
   - \fancyhead{}
@@ -42,6 +42,12 @@ El método EasyPeasy para dejar la pornografía. Deja el porno de manera rápida
 * Layout rediseñado y reescrito en R Markdown por **porog**
     * Su página: https://www.youtube.com/channel/UCw0bSPMyQ3bL_8Ejf_DLFQg
 * Imagen de portada por **Allan Gomes**
+
+---
+
+**Notas de los traductores**
+
+Puede que algunas frases y palabras parezcan algo raras al lector español. Preferimos ser fieles al estilo directo y coloquial de Allen Carr, ya que es importante comunicar sus ideas fielmente y su lenguaje se ha probado con eficacia. Con EasyPeasy tendrás la oportunidad de aclarar cualquier duda o temor que pueda tener en este asunto.
 
 ---
 
