@@ -5,7 +5,7 @@ bookdown::gitbook:
         <li><a href ="./">EasyPeasy</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/easypeasyespanol/easypeasyespanol.github.io/blob/main/%s
+    edit: https://github.com/easypeasyespanol/easypeasyespanol.github.io/blob/testing/%s
     download:
       - ["easypeasyespanol.pdf", "PDF"]
       - ["easypeasyespanol.epub", "EPUB"]
