@@ -1,10 +1,6 @@
 ---
 title: "EasyPeasy (traducido al español) Alpha"
-author: "English (original) - by Hackauthor² <br/> translated into <br/>
-[German](de/index.html) // ([PDF](de/easypeasy.pdf)) - by Tim Budweg <br/>
-and <br/>
-[Spanish](https://easypeasyespanol.github.io/) // ([PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf))<br/>
-by their respective translators"
+author: "English (original) - by Hackauthor²"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 description: "El método EasyPeasy para dejar la pornografía."
