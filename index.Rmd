@@ -11,7 +11,7 @@ description: "El método EasyPeasy para dejar la pornografía."
 documentclass: book
 classoption: openany
 lang: es
-url: "https://easypeasyespanol.github.io/"
+url: "https://easypeasyespanol.github.io/alpha/"
 cover-image: "img-cover.png"
 pdf-cover-image: "img-cover.png"
 mainfont: Arial
